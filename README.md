@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Artur 👋
-<h3 align="center">I'm java backend developer</h3>
+## Hi there, I'm Artur 👋
+### I'm java backend developer<br><br>
   
-## 🛠 Technical Stack
+## 🛠 My technical stack
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
