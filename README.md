@@ -1,5 +1,5 @@
 ## Hi there, I'm Artur 👋
-### I'm java backend developer<br><br>
+### I'm java backend developer💻<br><br>
   
 ## 🛠 My technical stack
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
