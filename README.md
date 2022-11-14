@@ -14,8 +14,8 @@
 ## 📂 My opensource projects
 
 *   [Shareit](https://github.com/am29-10/java-shareit) - ...
-*   [Filmorate](https://github.com/am29-10/java-filmorate) - ...
-*   [Java-kanban](https://github.com/am29-10/java-kanban) - ...
+*   [Filmorate](https://github.com/am29-10/java-filmorate) - this social network that will help you choose a movie based on what movies you and your friends watch and what ratings you give them. This project is implemented using Spring Boot and database.
+*   [Java-kanban](https://github.com/am29-10/java-kanban) - this program allows you to set goals, tasks and deadlines for projects. This project was implemented in Java EE.
   
   <!--
 ## 📂Hobby Stack
