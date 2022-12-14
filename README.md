@@ -9,7 +9,9 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Maven](https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=Apache%20Maven&logoColor=000000)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-BDB76B?style=for-the-badge&logo=Hibernate&logoColor=000000)<br><br>
+  ![Hibernate](https://img.shields.io/badge/Hibernate-BDB76B?style=for-the-badge&logo=Hibernate&logoColor=000000)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
+  ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=FFFFFF)<br><br>
 
 ## 📂 My opensource projects
 
