@@ -1,5 +1,4 @@
-## Привет, Я Артур 👋
-### Я java backend разработчик💻<br><br>
+## <h2 align="center">Привет, Я Артур 👋</h2>
   
 ## 🛠 Мой стэк технологий
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge)
