@@ -23,7 +23,7 @@
 | [Filmorate](https://github.com/am29-10/java-filmorate)| Rest-сервис, социальная сеть, которая поможет выбрать кино на основе того, какие фильмы вы и ваши друзья смотрите и какие оценки им ставите.                                        | Spring Boot, Maven, JUnit, Lombok, JDBC                                                   |
 | [Kanban](https://github.com/am29-10/java-kanban) | Программа, которая позволяет ставить цели, задачи и сроки по проектам.                                                                                                              | Java EE, JUnit                                                                            |
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Come%20again!&fontSize=40&animation=fadeIn)
 
   
   
