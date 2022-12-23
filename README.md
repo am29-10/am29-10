@@ -1,5 +1,4 @@
-## <h2 align="center">Привет, Я Артур 👋</h2>
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=255&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%20Добро%20пожаловать%20в%20мой%20GitHub%20профиль!&descAlignY=51&descAlign=60)
 ## 🛠 Мой стэк технологий
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -24,16 +23,8 @@
 | [Filmorate](https://github.com/am29-10/java-filmorate)| Rest-сервис, социальная сеть, которая поможет выбрать кино на основе того, какие фильмы вы и ваши друзья смотрите и какие оценки им ставите.                                        | Spring Boot, Maven, JUnit, Lombok, JDBC                                                   |
 | [Kanban](https://github.com/am29-10/java-kanban) | Программа, которая позволяет ставить цели, задачи и сроки по проектам.                                                                                                              | Java EE, JUnit                                                                            |
   
-  
-  <!--
-## 📂Hobby Stack
-  ![Basketball](https://img.shields.io/badge/🏀%20Basketball-A0522D?style=for-the-badge)
-  ![Cycling](https://img.shields.io/badge/🚴%20Cycling-20B2AA?style=for-the-badge)
-  ![Running](https://img.shields.io/badge/🏃%20Running-00008B?style=for-the-badge)
-  
-  <h3 align="center">📫 How to reach me: <a href='mailto:am29-10@mail.ru'>am29-10@mail.ru</a>
-</p></h3>
--->
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+
   
   
   
