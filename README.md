@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%20Добро%20пожаловать%20в%20мой%20GitHub%20профиль!&descAlignY=51&descAlign=60)
-## 🛠 Мой стэк технологий
+## 🛠 Мой стек технологий
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-BDB76B?style=for-the-badge&logo=Hibernate&logoColor=000000)
